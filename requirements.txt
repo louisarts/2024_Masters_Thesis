@@ -1,0 +1,10 @@
+
+# requirements.txt
+numpy
+matplotlib
+pandas
+seaborn
+h5py
+scipy
+jupyter
+nbformat
