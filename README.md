@@ -15,9 +15,9 @@ This project investigates the predictive capacity of FLARES simulations in repli
 
 ### Data Files
 
-- `filtered_FLARES_data.csv`: Processed FLARES simulation data after applying selection criteria.
+- `filtered_FLARES_data.csv`: Processed FLARES simulation data after applying selection criteria (mock observations).
 - `LRD_data.csv`: Observational data from the COSMOS-Web survey.
-- `raw_FLARES_data.hdf5`: Raw data from the FLARES simulation suite.
+- `raw_FLARES_data.hdf5`: Simulated data from the FLARES simulation suite.
 
 ## Installation
 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
     jupyter notebook
     ```
 
-    Select the notebook you wish to run and execute the cells to perform the analysis.
+    Select the notebook you wish to run and execute the cells to perform the analysis. Note: some diagrams might differ slightly from the original paper but display exactly the same information.
 
 
 ## Contact
